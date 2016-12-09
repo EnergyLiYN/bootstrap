@@ -157,9 +157,10 @@ If you're updating your application to use prefixes, please check the [migration
 Directives from this repository are automatically tested with the following browsers:
 * Chrome (stable and canary channel)
 * Firefox
-* IE 9 and 10
+* Above IE 9
 * Opera
 * Safari
+
 
 Modern mobile browsers should work without problems.
 
